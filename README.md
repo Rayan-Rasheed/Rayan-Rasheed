@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayan
-- 🌱 I’m currently learning c# and web development
-- 💬 Ask me about c++
-- 🌱Currently Working on c#
+- 🌱 I’m currently learning on Development of cross-platform application in python
+- 💬 Ask me about c++ and c#
+- 🌱Currently Working in python
 - 📫 How to reach me:You can contact me on rasheedrayan514@gmail.com

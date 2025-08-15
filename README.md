@@ -1,27 +1,26 @@
-🙋‍♂️**ABOUT ME**
+## 🙋‍♂️ ABOUT ME
 
-**Jr. Year Student** at *University of Engineering and Technology, Lahore*
-- **Open Source Contributor**  
-  - 💻 Contributed to the [Eazie.tv](https://eazie.tv/) project.
-- **Software Engineer** at *Fiverr* 
-  - 🚀 Exciting News!  
-  - 🔥 Level 1 Seller on Fiverr  
-  - Specializing in Google Cloud Platform (GCP), machine learning applications, and Spring Boot.
+**PhD Student in Computer Science** – *Michigan State University*  
+- 🎓 Researching Artificial Intelligence, Machine Learning, and Autonomous Intelligent Systems.  
+- 🔬 Building on my entrepreneurial and academic journey to push the boundaries of AI innovation.  
 
-- **Artificial Intelligence & Coding Team** at *ACM UET Lahore*  
-  - 🧠 Exploring deep learning.
+**BSc in Computer Science** – *University of Engineering and Technology, Lahore*  
+- **Founder & COO of [Hirenze.com](https://hirenze.com)**  
+  - 🚀 An AI-powered interviewer platform streamlining hiring processes.  
+  - 🌟 Recognized among the **Top 100 startups in the World Startup Championship 2024 – SEE Pakistan**.  
+  - 🏆 Winner of the **Zindigi Prize (Punjab Regionals)** from a pool of 1500+ teams.  
 
-- **Hosting Team** at *Software Square*  
-  - 💼 Executive part of the Hosting team.
+**CTO – VOCS AI**  
+- 🎤 Led development of a **Natural Voice Over Artist** using machine learning.  
+- 🛠 Oversaw technical strategy and product delivery for AI-driven voice solutions.  
 
-- **Associate Web Developer Intern**  
-  - 🌐 Learning, growing, and contributing.
-  - 💰 Awarded a scholarship of US$1500.
+**Open Source Contributor – [Eazie.tv](https://eazie.tv/)**  
+- 💻 Contributed to the development and improvement of an online streaming platform.  
 
-- **Teaching Assistant** at *University of Engineering and Technology, Lahore*  
-  - 👨‍🏫 Supporting the Object-Oriented Programming (OOP) course.
-  - 📚 Assisting with course materials, labs, and grading.
+**Software Engineer – Fiverr (Level 2 Seller)**  
+- 🔥 Delivered 50+ successful projects with top client ratings.  
+- Specialized in **Google Cloud Platform (GCP)**, **machine learning applications**, and **Spring Boot**.  
 
-- **Teaching Assistant** at *University of Engineering and Technology, Lahore* 
-  - 👨‍🏫 Supporting the Computer Science Department.
-  - 📊 Assisting in course delivery and student support.
+**Teaching Assistant – University of Engineering and Technology, Lahore**  
+- 👨‍🏫 Supported the Object-Oriented Programming (OOP) course and other CS department activities.  
+- 📚 Assisted with labs, course materials, and grading.  

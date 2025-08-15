@@ -5,7 +5,7 @@
 - 🔬 Building on my entrepreneurial and academic journey to push the boundaries of AI innovation.  
 
 **BSc in Computer Science** – *University of Engineering and Technology, Lahore*  
-- **Founder & COO of [Hirenze.com](https://hirenze.com)**  
+- **Founder of Hirenze**  
   - 🚀 An AI-powered interviewer platform streamlining hiring processes.  
   - 🌟 Recognized among the **Top 100 startups in the World Startup Championship 2024 – SEE Pakistan**.  
   - 🏆 Winner of the **Zindigi Prize (Punjab Regionals)** from a pool of 1500+ teams.  

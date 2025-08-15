@@ -10,7 +10,7 @@
   - 🌟 Recognized among the **Top 100 startups in the World Startup Championship 2024 – SEE Pakistan**.  
   - 🏆 Winner of the **Zindigi Prize (Punjab Regionals)** from a pool of 1500+ teams.  
 
-**CTO – VOCS AI**  
+**VOCS AI**  
 - 🎤 Led development of a **Natural Voice Over Artist** using machine learning.  
 - 🛠 Oversaw technical strategy and product delivery for AI-driven voice solutions.  
 
